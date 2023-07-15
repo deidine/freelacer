@@ -1,0 +1,51 @@
+ 
+<footer class="footer-dark">
+    <div class="container">
+        <div class="row">
+            <!-- Start: Services -->
+            <div class="col-sm-6 col-md-3 item">
+                <h3>الخدمات</h3>
+                <ul>
+                    <li><a href="booking.php">تسجيل خدمات</a></li>
+                    <li><a href="register.php"> التسجيل كعضو من الفريق </a></li>
+                    <li><a href="login.php">الدخول كعضو من الفريق</a></li>
+                    <li><a href="admin.php">Admin Page</a></li>
+                    <li><a href="admin/">Admin Site</a></li>
+                </ul>
+            </div>
+            <!-- End: Services -->
+
+            <!-- Start: About -->
+            <div class="col-sm-6 col-md-3 item">
+                <h3> عن الموقع</h3>
+                <ul>
+                    <li><a href="about.php"> معرفة اكثر</a></li>
+                    <li></li>
+                    <li><a href="register.php">التسجيل كعضو من الفريق </a></li>
+                </ul>
+            </div>
+            <!-- End: About -->
+
+            <!-- Start: Footer Text -->
+            <div class="col-md-6 item text">
+                <h3> 
+                    <img src="../assets/img/logo4.jpg" style="border-radius: 13px;" width="70px" height="70px">    
+             &nbsp;قادة المستقبل</h3>
+                <p>
+                    حيث ماكنت شركة قادة المستقبل ستلبي رغباتكم حيث نوظف اشخاص يمتلكون الكفائة و الدقة في اتمام العمل بجودة عالية وسرعة
+                    من ان تكون في اعلى مراتب الرضي و نحافظ علئ ادق التفاصيل
+                <p>الى الامام معا</p>
+            </div>
+                </div>
+        <!-- Start: Copyright -->
+        <p class="copyright">Deidine oul cheigeur  © 2023  - Made With <i class="fas fa-heart"> phone&whatsapp +22249619609 email cheigeurdeidine@gmail.com</i></p>
+        <!-- Version Note -->
+        <p class="copyright">V1.0</p>
+        <!-- End: Copyright -->
+    </div>
+</footer>
+<!-- End: Footer Dark -->
+
+<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script src="assets/js/script.min.js"></script>
